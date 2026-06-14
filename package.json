@@ -1,0 +1,14 @@
+{
+  "name": "alicization-town-mcp-http",
+  "version": "0.1.0",
+  "description": "Alicization Town — HTTP MCP bridge for remote/mobile clients",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "type": "commonjs",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.27.1",
+    "express": "^4.18.2"
+  }
+}
